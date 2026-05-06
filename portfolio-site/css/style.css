@@ -1,0 +1,11 @@
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+}
+
+.project-card {
+  border: 2px solid #ddd;
+  padding: 1rem;
+  border-radius: 10px;
+  background:#c26c6c;
+}
